@@ -13,7 +13,7 @@ clean :
 
 
 %.pdf : %.md
-	pandoc -V links-as-notes --latex-engine=lualatex --filter=pandoc-svg -o $@ $<
+	pandoc --template=tvd -V links-as-notes --latex-engine=lualatex --filter=pandoc-svg -o $@ $<
 
 %.md : %.ipynb
 	jupyter nbconvert --to markdown $<
