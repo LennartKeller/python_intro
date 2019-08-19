@@ -5,4 +5,5 @@
 *.aux
 *.tex
 *.log
+*-ol.ipynb
 __pycache__
