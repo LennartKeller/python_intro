@@ -1,0 +1,4 @@
+Dies ist ein kürzerer Text.
+Und das wäre die letzte Zeile!
+Wenn es nicht eine weitere gäbe.
+Hänge diese Zeile an. Das ist nun die letzte.

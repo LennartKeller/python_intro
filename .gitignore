@@ -7,3 +7,5 @@
 *.log
 *-ol.ipynb
 __pycache__
+.*.dep
+ueb

@@ -1,0 +1,259 @@
+[
+ {
+  "author": "Hermann Bahr",
+  "title": "Die gute Schule",
+  "year": 1898,
+  "publisher": "Fischer",
+  "places": [
+   "Berlin"
+  ]
+ },
+ {
+  "author": "Max Dauthendey",
+  "title": "Der Venusinen-Reim",
+  "year": 1911,
+  "publisher": "Ernst Rowohlt"
+ },
+ {
+  "author": "Theophile Gautier",
+  "title": "Mademoiselle de Maupin",
+  "year": 1921,
+  "publisher": "Georg M\u00fcller",
+  "places": [
+   "M\u00fcnchen"
+  ]
+ },
+ {
+  "author": "Wilhelm Heinse",
+  "title": "Die Kirschen",
+  "year": 1903,
+  "publisher": "Insel-Verlag",
+  "places": [
+   "Leipzig"
+  ],
+  "partof": "Wilhelm Heinse"
+ },
+ {
+  "author": "Georg Heym",
+  "title": "Dichtungen und Schriften",
+  "year": 1964,
+  "publisher": "Ellermann"
+ },
+ {
+  "author": "D.H. Lawrence",
+  "title": "Lady Chatterley",
+  "year": 2003,
+  "publisher": "Rowohlt"
+ },
+ {
+  "author": "Guillaume de Lorris",
+  "title": "Das Gedicht von der Rose",
+  "year": 1839,
+  "publisher": "Vereins-Buchhandlung",
+  "translator": "Heinrich F\u00e4hrmann",
+  "places": [
+   "Berlin"
+  ]
+ },
+ {
+  "author": "Marquis de Sade",
+  "title": "Die Geschichte der Justine oder die Nachteile der Tugend",
+  "year": 1906
+ },
+ {
+  "author": "Sueton",
+  "title": "Die zw\u00f6lf C\u00e4saren",
+  "year": 1912,
+  "publisher": "Georg M\u00fcller"
+ },
+ {
+  "author": "Frank Wedekind",
+  "title": "Die Schutzimpfung",
+  "year": 1969,
+  "publisher": "Prosa. Berlin und Weimar, Aufbau-Verlag",
+  "partof": "Werke in drei B\u00e4nden"
+ },
+ {
+  "author": "Jules Verne",
+  "title": "F\u00fcnf Wochen im Ballon",
+  "year": 1876,
+  "publisher": "A. Hartleben",
+  "places": [
+   "Wien",
+   "Pest",
+   "Leipzig"
+  ]
+ },
+ {
+  "author": "Jules Verne",
+  "title": "Reisen und Abenteuer des Kapit\u00e4n Hatteras",
+  "year": 1875,
+  "publisher": "A. Hartleben",
+  "places": [
+   "Wien",
+   "Pest",
+   "Leipzig"
+  ]
+ },
+ {
+  "author": "Jules Verne",
+  "title": "Paris im 20. Jahrhundert",
+  "year": 1996,
+  "publisher": "Paul Zsolnay",
+  "translator": "Elisabeth Edl",
+  "places": [
+   "Wien"
+  ]
+ },
+ {
+  "author": "Jules Verne",
+  "title": "Von der Erde zum Mond",
+  "year": 1874,
+  "publisher": "A. Hartleben",
+  "places": [
+   "Wien",
+   "Pest",
+   "Leipzig"
+  ]
+ },
+ {
+  "author": "Jules Verne",
+  "title": "Die Kinder des Kapit\u00e4n Grant",
+  "year": 1876,
+  "publisher": "A. Hartleben",
+  "places": [
+   "Wien",
+   "Pest",
+   "Leipzig"
+  ]
+ },
+ {
+  "author": "B\u00e4uerle, Adolf",
+  "title": "Doctor Faust's Mantel",
+  "year": 1819,
+  "publisher": "Verlag Leopold Grund"
+ },
+ {
+  "author": "Bechstein, Ludwig",
+  "title": "Faustus",
+  "year": 1833,
+  "publisher": "Friedrich August Leo",
+  "places": [
+   "Leipzig"
+  ]
+ },
+ {
+  "author": "Benkowitz, Karl Friedrich",
+  "title": "Die Jubelfeier der H\u00f6lle, oder Faust der j\u00fcngere",
+  "year": 1801,
+  "publisher": "Friedrich Maurer"
+ },
+ {
+  "author": "Bleibtreu, Karl",
+  "title": "Ein Faust der That",
+  "year": 1889,
+  "publisher": "Verlag von Wilhelm Friedrich",
+  "places": [
+   "Leipzig"
+  ]
+ },
+ {
+  "author": "Gla\u00dfbrenner, Adolf",
+  "title": "Die j\u00fcngste Walpurgisnacht",
+  "year": 1844,
+  "publisher": "Jenni, Sohn"
+ },
+ {
+  "author": "Mad\u00e1ch, Imre",
+  "title": "Die Trag\u00f6die des Menschen",
+  "year": 1888,
+  "publisher": "Verlag Philipp Reclam jun.",
+  "translator": "Julius von Lechner von der Lech",
+  "places": [
+   "Leipzig"
+  ]
+ },
+ {
+  "author": "Spielhagen, Friedrich",
+  "title": "Faustulus",
+  "year": 1898,
+  "publisher": "L. Staackmann",
+  "places": [
+   "Leipzig"
+  ]
+ },
+ {
+  "author": "Turgenjew, Iwan",
+  "title": "Faust",
+  "year": 1961,
+  "publisher": "Union Verlag",
+  "places": [
+   "Berlin"
+  ]
+ },
+ {
+  "author": "Wedekind, Frank",
+  "title": "Franziska",
+  "year": 1912,
+  "publisher": "Georg M\u00fcller",
+  "places": [
+   "M\u00fcnchen"
+  ]
+ },
+ {
+  "author": "Weidmann, Paul",
+  "title": "Johann Faust",
+  "year": 1775,
+  "publisher": "Joseph Emanuel Diesbach auf dem Altst\u00e4dter Kleinen Ring in Nro. 225",
+  "places": [
+   "Prag"
+  ]
+ },
+ {
+  "author": "Apulejus",
+  "title": "Der goldene Esel",
+  "year": 1920,
+  "publisher": "Propyl\u00e4en-Verlag",
+  "translator": "August Rode. Berlin"
+ },
+ {
+  "author": "Balzac, Honor\u00e9 de",
+  "title": "Glanz und Elend der Kurtisanen",
+  "year": 1909,
+  "publisher": "Insel-Verlag",
+  "translator": "Felix Paul Greve",
+  "places": [
+   "Leipzig"
+  ]
+ },
+ {
+  "author": "Balzac, Honor\u00e9 de",
+  "title": "Glanz und Elend der Kurtisanen",
+  "year": 1909,
+  "publisher": "Insel-Verlag",
+  "translator": "Felix Paul Greve",
+  "places": [
+   "Leipzig"
+  ]
+ },
+ {
+  "author": "Marlowe, Christoph",
+  "title": "Doktor Faustus",
+  "year": 1911,
+  "publisher": "Eugen Rentsch Verlag",
+  "translator": "Wilhelm M\u00fcller",
+  "places": [
+   "M\u00fcnchen"
+  ]
+ },
+ {
+  "author": "Moli\u00e8re",
+  "title": "Der eingebildete Kranke",
+  "year": 1945,
+  "publisher": "Verlag Phillip Reclam jun.",
+  "translator": "Wolf Heinrich Graf Baudissin",
+  "places": [
+   "Leipzig"
+  ]
+ }
+]
