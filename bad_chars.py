@@ -9,3 +9,6 @@ def get_chars(instring):
     for i in instring:
         chars.append(i)
     return chars
+
+if __name__ == '__main__':
+    print(get_chars("Hello World!"))
